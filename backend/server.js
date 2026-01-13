@@ -3,7 +3,7 @@ const express = require("express");
 const app = express();
 
 app.get("/health", (req, res) => {
-  res.send("Backend is healthy");
+  res.send("Health check from service B");
 });
 
 const PORT = 5000;
