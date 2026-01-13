@@ -3,7 +3,7 @@ const express = require("express");
 const app = express();
 
 app.get("/health", (req, res) => {
-  res.send("Health from rebase C");
+  res.send("Health from rebase C & D");
 });
 
 const PORT = 5000;
