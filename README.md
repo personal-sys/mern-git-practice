@@ -1,1 +1,1 @@
-This project demonstrates professional Git and GitHub workflows.
+This project is a hands-on MERN + Git mastery practice repository.
